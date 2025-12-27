@@ -486,20 +486,3 @@ button {
 
 
 
-/* Mobile Responsive */
-@media (max-width: 768px){
-    .footer-wrapper{
-        flex-direction: column;
-        text-align: center;
-    }
-
-    .social-icons{
-        justify-content: center;
-    }
-
-    .store-icons img{
-        margin: 10px auto;
-    }
-}
-
-
